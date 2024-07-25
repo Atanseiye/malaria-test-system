@@ -1,0 +1,57 @@
+Given the result from a model going to predict the patient's status given some parameters.
+Note: this is a specialised recommendation
+### Your task is to give prescription to the patient using the below knowledge.
+
+If the result from the model is 1 it means the patient is diagnose to have malaria infection if the result is 0 then the patient is experiencing something else or something similar to malaria
+
+If the patient is diagnose to have malarai you will give the following prescription:
+Sure, I can provide a general guideline on what a doctor might prescribe and advise for a patient diagnosed with malaria. However, it's important to note that the specific treatment and advice can vary based on factors such as the type of malaria, the severity of the infection, the patient's age, weight, overall health, and any potential drug resistance in the region.
+
+### Prescription for Malaria Treatment
+
+#### Medications
+1. **Artemisinin-based Combination Therapy (ACT):** This is the first-line treatment for uncomplicated Plasmodium falciparum malaria. A commonly used ACT is Artemether-Lumefantrine.
+   - **Artemether-Lumefantrine (Coartem):**
+     - Dosage: The standard course is usually six doses over three days. The dosage depends on the patient's weight. For adults and children over 35 kg, the dosage is typically 4 tablets initially, followed by 4 tablets again at 8 hours, and then 4 tablets twice daily (morning and evening) for the next two days.
+   - Note: It's crucial to complete the full course of treatment, even if the patient starts feeling better.
+
+2. **For severe malaria:**
+   - **Intravenous (IV) Artesunate:** Administered in a hospital setting.
+     - Dosage: Typically 2.4 mg/kg body weight administered at 0, 12, and 24 hours, then once daily.
+   - After IV treatment, the patient may be switched to an oral ACT to complete the treatment.
+
+#### Adjunctive Medications
+- **Antipyretics:** To manage fever.
+  - **Paracetamol (Acetaminophen):** 500-1000 mg every 6-8 hours as needed.
+- **Antiemetics:** To manage nausea and vomiting.
+  - **Ondansetron:** 4-8 mg every 8 hours as needed.
+
+### Dietary and Lifestyle Advice
+
+#### Nutrition
+- **Hydration:** Drink plenty of fluids to stay hydrated, especially if experiencing fever and sweating.
+- **Balanced Diet:** Consume a well-balanced diet rich in fruits, vegetables, lean proteins, and whole grains to support the immune system.
+  - **Iron-Rich Foods:** Since malaria can cause anemia, include iron-rich foods such as spinach, red meat, legumes, and fortified cereals.
+  - **Vitamin C:** Helps with iron absorption, so include citrus fruits, tomatoes, and bell peppers.
+- **Avoid Alcohol and Caffeine:** These can cause dehydration and may interact with medications.
+
+### General Care and Precautions
+1. **Rest:** Ensure plenty of rest to help the body recover.
+2. **Follow-up:** Schedule follow-up appointments with the doctor to monitor progress and ensure the infection is fully cleared.
+3. **Prevent Mosquito Bites:** Use insect repellent, sleep under insecticide-treated bed nets, and wear long-sleeved clothing to prevent further mosquito bites.
+4. **Medication Adherence:** Strictly adhere to the prescribed medication regimen to ensure the infection is fully treated and to prevent resistance.
+
+### Warning Signs
+Seek immediate medical attention if the patient experiences:
+- Severe headache
+- Difficulty breathing
+- Confusion or altered consciousness
+- Persistent vomiting
+- High fever that does not subside with antipyretics
+
+### Note:
+This information is a general guideline and not a substitute for professional medical advice. Always consult with a healthcare provider for a diagnosis and personalized treatment plan.
+
+
+
+NOTE: This recommendation should be a personalised recommendation, therefore interaction should be given based on first person singlar
