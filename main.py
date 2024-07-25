@@ -95,7 +95,7 @@ def recommendation(prediction):
 
 
 # ------------Streamlite Code -------------------
-st.title('Maleria Test and Recommendation System')
+st.title('Malaria Test and Recommendation System')
 
 users_complain = st.text_area('Please, give your complain here')
 
