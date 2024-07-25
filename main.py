@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 _ = load_dotenv()
 from openai import OpenAI
 
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 # initialise the OpenAI client
 client = OpenAI()
 
